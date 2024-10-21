@@ -1,0 +1,31 @@
+{
+  "baseURL": "https://parabank.parasoft.com/",
+  "registerURL": "https://parabank.parasoft.com/parabank/register.htm",
+  "users": [{
+    "id": 1,
+    "firstName": "Tunay",
+    "lastName": "Amishev",
+    "address": "Beli Brezi",
+    "city": "Sofia",
+    "state": "BG",
+    "zipCode": "1111",
+    "phone": "088112233",
+    "ssn": "12345",
+    "username": "tuni",
+    "password": "test123",
+    "confirmPW": "test123"},
+    {
+      "id": 2,
+      "firstName": "Samuil",
+      "lastName": "Getov",
+      "address": "Bulgaria Blvd. 101",
+      "city": "Sofia",
+      "state": "Bulgaria",
+      "zipCode": "1000",
+      "phone": "0888765432",
+      "ssn": "123-4567-89",
+      "username": "JQAUser",
+      "password": "JQA123",
+      "confirmPW": "JQA123"
+    }]
+}
